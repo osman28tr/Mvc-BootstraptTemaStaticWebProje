@@ -13,5 +13,9 @@ namespace MvcTemplateProje.Controllers
         {
             return View();
         }
+        public ActionResult Hakkimizda()
+        {
+            return View();
+        }
     }
 }

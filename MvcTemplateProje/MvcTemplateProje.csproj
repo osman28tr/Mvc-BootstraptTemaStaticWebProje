@@ -88,7 +88,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Files\agency.min.css" />
+    <Content Include="Files\all.min.css" />
+    <Content Include="Files\bootstrap.min.css" />
     <Content Include="Global.asax" />
+    <Content Include="Script_Files\agency.min.js" />
+    <Content Include="Script_Files\bootstrap.bundle.min.js" />
+    <Content Include="Script_Files\contact_me.js" />
+    <Content Include="Script_Files\jqBootstrapValidation.js" />
+    <Content Include="Script_Files\jquery.easing.min.js" />
+    <Content Include="Script_Files\jquery.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -104,6 +113,7 @@
     <None Include="packages.config" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Default\Index.cshtml" />
+    <Content Include="Views\Default\Hakkimizda.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
