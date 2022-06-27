@@ -17,5 +17,21 @@ namespace MvcTemplateProje.Controllers
         {
             return View();
         }
+        public ActionResult Takim()
+        {
+            return View();
+        }
+        public ActionResult Servis()
+        {
+            return View();
+        }
+        public ActionResult Portfoy()
+        {
+            return View();
+        }
+        public ActionResult Iletisim()
+        {
+            return View();
+        }
     }
 }
